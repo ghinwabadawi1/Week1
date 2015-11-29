@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9daf687e-85ae-4cfa-ba93-fef3f99d6bdd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/NewTask.class" afterPath="$PROJECT_DIR$/target/classes/NewTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Worker$1.class" afterPath="$PROJECT_DIR$/target/classes/Worker$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Worker.class" afterPath="$PROJECT_DIR$/target/classes/Worker.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/NewTask.java" afterPath="$PROJECT_DIR$/src/NewTask.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Worker.java" afterPath="$PROJECT_DIR$/src/Worker.java" />
     </list>
     <ignored path="FirstIntelliJMavenProj.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,9 +28,10 @@
       <file leaf-file-name="NewTask.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/NewTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1434263">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.50199205">
+              <caret line="14" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding>
+                <element signature="e#0#1928#0" expanded="true" />
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -571,7 +567,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="545" y="24" width="1375" height="1056" extended-state="1" />
+    <frame x="545" y="24" width="1375" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -626,6 +622,7 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
           <folding>
+            <element signature="e#0#1928#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
@@ -831,9 +828,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/NewTask.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1434263">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="39" />
+        <state vertical-scroll-proportion="0.50199205">
+          <caret line="14" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
+            <element signature="e#0#1928#0" expanded="true" />
             <element signature="imports" expanded="true" />
           </folding>
         </state>
