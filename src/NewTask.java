@@ -2,7 +2,6 @@
  * Created by eghibad on 11/25/15.
  */
 
-
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.ConnectionFactory;
@@ -32,9 +31,9 @@ public class NewTask {
         System.out.println("message === " + message);
 
 
-        channel.basicPublish("", "TASK_QUEUE_NAME",
+        channel.basicPublish("", TASK_QUEUE_NAME,
                 MessageProperties.PERSISTENT_TEXT_PLAIN,
-                message.getBytes("UTF-8")); //this didn't work because of the message.getBytes("UTF-8")
+                message.getBytes("UTF-8"));
 
 //        channel.basicPublish("", TASK_QUEUE_NAME, MessageProperties.PERSISTENT_TEXT_PLAIN, message.getBytes());
 

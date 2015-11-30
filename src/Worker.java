@@ -23,6 +23,7 @@ public class Worker {
         channel.basicQos(1);
 
         final Consumer consumer = new DefaultConsumer(channel) {
+
             public void handleDelivery(String consumerTag, Envelope envelope, AMQP.BasicProperties properties, byte[] body)
                     throws IOException {
                 String message = new String(body, "UTF-8");
