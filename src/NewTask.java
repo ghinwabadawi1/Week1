@@ -2,7 +2,6 @@
  * Created by eghibad on 11/25/15.
  */
 
-//changed here to commit to branch demo
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.ConnectionFactory;
